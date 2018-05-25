@@ -23,7 +23,7 @@
 	<a href="second/test2">second/test2</a>
 	<br />
 
-	<a href="product/detail">product/detail</a>
+	<a href="third/test1">third/test1</a>
 	<br />
 
 </body>
