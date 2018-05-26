@@ -5,6 +5,10 @@ public class Student {
 	String studentNumber;
 	String studentName;
 	String email;
+
+	Student(){
+
+	}
 	public Student(int id, String studentNumber, String studentName, String email) {
 		super();
 		this.id = id;
